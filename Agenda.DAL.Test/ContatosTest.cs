@@ -36,6 +36,7 @@ namespace Agenda.DAL.Test
             //Verifica
             Assert.True(true);
         }
+        
         //Obter Contato
         [Test]
         public void ObterContatoTest()
