@@ -21,3 +21,14 @@ C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\Agenda.DAL.Test.d
 C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\Dapper.dll
 C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\Dapper.xml
 C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\ProjetoDB_Test.sql
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\AutoFixture.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\Fare.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\AutoFixture.pdb
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\AutoFixture.xml
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\Fare.xml
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\Castle.Core.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\Castle.Core.xml
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fpontes\source\repos\Agenda\Agenda.DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.xml

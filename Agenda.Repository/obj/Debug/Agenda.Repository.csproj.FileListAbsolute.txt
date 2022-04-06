@@ -1,0 +1,13 @@
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Agenda.Repository.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Agenda.Repository.pdb
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Agenda.DAL.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Agenda.Domain.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Dapper.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Agenda.DAL.pdb
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Agenda.Domain.pdb
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\bin\Debug\Dapper.xml
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.csproj.AssemblyReference.cache
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.csproj.CoreCompileInputs.cache
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.csproj.CopyComplete
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.dll
+C:\Users\fpontes\source\repos\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.pdb
